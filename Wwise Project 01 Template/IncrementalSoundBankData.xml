@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="878078161">
+	<Platform GUID="{F662CAFA-EC42-4890-9DD9-129659A61ADD}">
+		<Banks>
+			<Language ID="0">
+				<File Name="Game_Soundbank" Hash="3730751928" Timestamp="131262864790000000"/>
+				<File Name="Init" Hash="4089155376" Timestamp="131248292980000000"/>
+			</Language>
+			<Language ID="393239870">
+				<File Name="Game_Soundbank" Hash="1799276628" Timestamp="1542467857"/>
+				<File Name="Init" Hash="349789562" Timestamp="1534860416"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="72659396" Timestamp="1542470166"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+	<Platform GUID="{E9552067-0726-4942-A5F3-DE738131549C}">
+		<Banks>
+			<Language ID="0">
+				<File Name="Game_Soundbank" Hash="3730751928" Timestamp="131262864790000000"/>
+				<File Name="Init" Hash="2991911710" Timestamp="131248293000000000"/>
+			</Language>
+			<Language ID="393239870">
+				<File Name="Game_Soundbank" Hash="1799276628" Timestamp="1542467857"/>
+				<File Name="Init" Hash="4041338096" Timestamp="1534860416"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="1386788882" Timestamp="1542470166"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>

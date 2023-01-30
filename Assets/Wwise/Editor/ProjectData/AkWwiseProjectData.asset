@@ -1,0 +1,322 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96fa86dadd9a14720aad4df88b2166bb, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: b105a7d9de085b499b2690d960e62759
+    m_lastTime: -8586667465004775808
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 1ea7e272193be14dba37a84f8b070595
+    m_lastTime: -8586667464794775808
+    List: []
+  BankWwu:
+  - PhysicalPath: SoundBanks/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 0a638c68311b32459748dae2decad42b
+    m_lastTime: -8586667465004775808
+    List:
+    - name: Game_Soundbank
+      guid: 1fdf6f792aaaf7479bf1b9ba637e879b
+      id: 3626155605
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Game_Soundbank
+        ObjectType: 7
+      Path: Default Work Unit/Game_Soundbank
+  EventWwu:
+  - PhysicalPath: Events/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: e0cc419c162c02409c785e67dd0b068d
+    m_lastTime: -8586667465004775808
+    List:
+    - name: boss_active
+      guid: 7bb177a1ad2a284c80ab1958d00a1b11
+      id: 1953592055
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: boss_active
+        ObjectType: 3
+      Path: Default Work Unit/boss_active
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: boss_clear
+      guid: b4b1f1474575894b969bfef801767cfd
+      id: 821155884
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: boss_clear
+        ObjectType: 3
+      Path: Default Work Unit/boss_clear
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: boss_proximity_warning
+      guid: 4f86a86b27fef942ac36dc4510ebae67
+      id: 3888303873
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: boss_proximity_warning
+        ObjectType: 3
+      Path: Default Work Unit/boss_proximity_warning
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: enemies_active
+      guid: 974d195d92119b42813fbd14d8f12116
+      id: 1503139828
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: enemies_active
+        ObjectType: 3
+      Path: Default Work Unit/enemies_active
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: enemies_clear
+      guid: b62eb5ae67220e4d9d3acfa1d0d74832
+      id: 2534285889
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: enemies_clear
+        ObjectType: 3
+      Path: Default Work Unit/enemies_clear
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: hack_1
+      guid: cfed8fd61559114b995fa9dc934254a0
+      id: 1147147046
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: hack_1
+        ObjectType: 3
+      Path: Default Work Unit/hack_1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: hack_2
+      guid: a34d7fe41e02c7409b7a2546930971fb
+      id: 1147147045
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: hack_2
+        ObjectType: 3
+      Path: Default Work Unit/hack_2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: hack_3
+      guid: 1b3072ea478d074f8e0a62b5fdbcdcd7
+      id: 1147147044
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: hack_3
+        ObjectType: 3
+      Path: Default Work Unit/hack_3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: hack_4
+      guid: d08948c78802d4479d36c9f6e1785077
+      id: 1147147043
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: hack_4
+        ObjectType: 3
+      Path: Default Work Unit/hack_4
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: level_part_1
+      guid: e7c2381dd985c246a0f286013d3c7945
+      id: 1535975439
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: level_part_1
+        ObjectType: 3
+      Path: Default Work Unit/level_part_1
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: level_part_2
+      guid: 29a23ce04a57884a8bf9d50bc06b032b
+      id: 1535975436
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: level_part_2
+        ObjectType: 3
+      Path: Default Work Unit/level_part_2
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: level_part_3
+      guid: e7d2a1a1af737e4297c47db17d5be796
+      id: 1535975437
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: level_part_3
+        ObjectType: 3
+      Path: Default Work Unit/level_part_3
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: level_part_4
+      guid: c643c0193e7a3447a10061efb67da087
+      id: 1535975434
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: level_part_4
+        ObjectType: 3
+      Path: Default Work Unit/level_part_4
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: level_part_5
+      guid: 0e5b73ccb6debc4b87a636651f7ec77d
+      id: 1535975435
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: level_part_5
+        ObjectType: 3
+      Path: Default Work Unit/level_part_5
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: level_start
+      guid: 668d3c31dbf8fb4e971e1d299633d87a
+      id: 352576276
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: level_start
+        ObjectType: 3
+      Path: Default Work Unit/level_start
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: level_win
+      guid: d574b0459169fa44a8c79efd7189a0a1
+      id: 2908556826
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: level_win
+        ObjectType: 3
+      Path: Default Work Unit/level_win
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: player_die
+      guid: 4ad0783b2f0a41458a1eeb7d5cc358a1
+      id: 1542330065
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: player_die
+        ObjectType: 3
+      Path: Default Work Unit/player_die
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: stop_all_sounds
+      guid: 8b8d9c443f276d4b96cf9ade333d793f
+      id: 3019720880
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: stop_all_sounds
+        ObjectType: 3
+      Path: Default Work Unit/stop_all_sounds
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+    - name: test_event
+      guid: a47da63517b3244e8a5d6441619eb241
+      id: 4258653052
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: test_event
+        ObjectType: 3
+      Path: Default Work Unit/test_event
+      maxAttenuation: 0
+      maxDuration: 0
+      minDuration: 0
+  RtpcWwu:
+  - PhysicalPath: Game Parameters/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 4bf53f024355c542b3179cd16cf5f05e
+    m_lastTime: -8586667465004775808
+    List:
+    - name: number_of_active_enemies
+      guid: 418ab7760bb6b440b37f2fced224034e
+      id: 3304971046
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: number_of_active_enemies
+        ObjectType: 13
+      Path: Default Work Unit/number_of_active_enemies
+    - name: player_health
+      guid: 69b599bfddd521438c294cc6f46e0283
+      id: 215992295
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: player_health
+        ObjectType: 13
+      Path: Default Work Unit/player_health
+  StateWwu:
+  - PhysicalPath: States/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 94c76c74eb074142acd29eb1e0cffb69
+    m_lastTime: -8586667465004775808
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 1c7b65a8bc821e459285fd14d4ce8127
+    m_lastTime: -8586667465004775808
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: f19c6764ffdcca498c5be13a5b17d7da
+    m_lastTime: -8586667465004775808
+    List: []
+  ExpandedItems:
+  - /Wwise Project 01 Template
+  - /Wwise Project 01 Template/Events
+  - /Wwise Project 01 Template/Events/Default Work Unit
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 
